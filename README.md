@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **t.wasif2710@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1ARdrcjbPM82DO4hA5ONGe6YwnVGn1uoQWZmnJRWjX2Y/edit?tab=t.0)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1DHDUaEMEw57_dc2JHpeiL0jTykdZT6Ya/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

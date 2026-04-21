@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Computer Science student at The University of Texas at Arlington with a 4.0 GPA, passionate about software engineering and web development. I aspire to be a better engineer than yesterday, constantly learning and expanding my technical skills. Currently, I'm exploring **JavaScript frameworks**, **Cloud Computing**, and **DevOps** through IBM Full-Stack JavaScript Developer Professional Certificate on Coursera to deepen my understanding of full-stack development. <br><br>Over the past year, I've developed several full-stack and system-level projects that strengthen my skills in **Java, Python, C**, and modern **web development frameworks**.<br><br>At **HackUTA 7**, I built **CompanionAI**, an AI-powered robot pet using **React.js, Flask, and Google Gemini AI** for real-time voice interaction and hardware control through **Raspberry Pi**. I also created **ToDo-Rails**, a **Spring Boot**-based task management web app deployed on **AWS** (currently paused), featuring secure authentication, **RESTful APIs**, and automated testing.<br><br>Beyond technical skills, I value **problem-solving, teamwork, and clear communication**. I am eager to contribute to real-world projects, continue learning new technologies, and grow as a **software engineer**.<br><br>Currently seeking **Software Engineering internships** where I can apply my skills, gain hands-on experience, and add value to the team.
+I am a Computer Science student at The University of Texas at Arlington with a 4.0 GPA, passionate about software engineering and web development. I aspire to be a better engineer than yesterday, constantly learning and expanding my technical skills. Currently, I'm exploring **JavaScript frameworks**, **Cloud Computing**, and **DevOps** through IBM Full-Stack JavaScript Developer Professional Certificate on Coursera to deepen my understanding of full-stack development. <br><br>Over the past year, I've developed several full-stack and system-level projects that strengthen my skills in **Java, Python, C**, and modern **web development frameworks**.<br><br>Beyond technical skills, I value **problem-solving, teamwork, and clear communication**. I am eager to contribute to real-world projects, continue learning new technologies, and grow as a **software engineer**.<br><br>Currently seeking **Software Engineering internships** where I can apply my skills, gain hands-on experience, and add value to the team.
 
 
 ## 🌐 Socials:
@@ -12,16 +12,4 @@ I am a Computer Science student at The University of Texas at Arlington with a 4
 ![](https://nirzak-streak-stats.vercel.app/?user=tahmidWasif&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tahmidWasif&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=tahmidWasif&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=tahmidWasif&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
-[![](https://visitcount.itsvg.in/api?id=tahmidWasif&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

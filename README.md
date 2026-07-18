@@ -1,15 +1,64 @@
-# 💫 About Me:
-I am a Computer Science student at The University of Texas at Arlington with a 4.0 GPA, passionate about software engineering and web development. I aspire to be a better engineer than yesterday, constantly learning and expanding my technical skills. Currently, I'm exploring **JavaScript frameworks**, **Cloud Computing**, and **DevOps** through IBM Full-Stack JavaScript Developer Professional Certificate on Coursera to deepen my understanding of full-stack development. <br><br>Over the past year, I've developed several full-stack and system-level projects that strengthen my skills in **Java, Python, C**, and modern **web development frameworks**.<br><br>Beyond technical skills, I value **problem-solving, teamwork, and clear communication**. I am eager to contribute to real-world projects, continue learning new technologies, and grow as a **software engineer**.<br><br>Currently seeking **Software Engineering internships** where I can apply my skills, gain hands-on experience, and add value to the team.
+<div align="center">
 
+# Md Tahmid Wasif
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/was_if_27) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mdtahmidwasif) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:t.wasif2710@gmail.com) 
+### Software engineer building intelligent, interactive systems for the physical world.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=tahmidWasif&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=tahmidWasif&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tahmidWasif&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Robotics · Multiplayer VR · Computer Vision · Full-Stack Systems
+
+[Portfolio](https://mdtahmidwasif.dev) · [LinkedIn](https://www.linkedin.com/in/mdtahmidwasif/) · [Email](mailto:t.wasif2710@gmail.com)
+
+</div>
 
 ---
+
+## About
+
+I'm an Honors Computer Science student at **The University of Texas at Arlington** with a **4.0 GPA**. I enjoy engineering software that has to work beyond the screen—where latency, privacy, hardware, teamwork, and real-world constraints shape the solution.
+
+My current work spans multiplayer VR training, remote robot control, and real-time computer vision. I'm also a Presidential Scholar, a researcher, and a software team lead.
+
+**Currently seeking Summer 2027 software engineering opportunities.**
+
+## What I'm working on
+
+- **Multiplayer VR de-escalation training** — building Unity and C# systems and evaluating a self-hosted Mirror architecture for a privacy-conscious, multi-officer training environment.
+- **Robot teleoperation and remote control** — developing a Python and ROS 2 control pipeline connecting an operator workstation, an OMRON mobile robot, and an onboard robotic arm.
+- **RoboMaster enemy detection** — training a YOLOv8n object-detection pipeline on competition footage for real-time robot and pressure-plate detection.
+
+## Selected work
+
+| Project | What it does | Stack |
+| --- | --- | --- |
+| [Portfolio](https://mdtahmidwasif.dev) | Presents my research, engineering work, and project case studies. | Next.js, TypeScript, React, CSS |
+| VR De-escalation Training | Privacy-conscious multiplayer training for coordinated police de-escalation practice. | Unity, C#, Mirror, Meta Quest 3 |
+| Robot Teleoperation | Carries operator input across a secure remote connection to mobile-robot hardware. | Python, ROS 2, NetBird, OMRON LD-90 |
+| RoboMaster Enemy Detection | Detects enemy robots and pressure plates from competition footage. | Python, YOLOv8n, Ultralytics |
+| Real-Time Social Platform | Event-driven client-server platform led across four iterations with an eight-person team. | Java, WebSockets, HTML |
+| [Algorithm Visualizer](https://github.com/tahmidWasif/algorithm-visualizer) | Makes sorting algorithms and graph traversals explorable step by step. | Java, JavaFX, Maven, FXML |
+
+## Toolkit
+
+```text
+Languages            Python · Java · C# · C · JavaScript · TypeScript · SQL
+Intelligent systems  ROS 2 · Unity · YOLOv8 · Gemini
+Web & backend        React · Next.js · Flask · Spring Boot · Node.js
+Infrastructure       AWS · Supabase · GitHub · NetBird
+```
+
+## A little beyond the code
+
+- Presidential Scholar
+- World highest marks in Pure Mathematics and Chemistry
+- Bangladesh Physics Olympiad national winner
+- Member of UTA's SCAI RoboMaster team
+
+---
+
+<div align="center">
+
+### Let's build something that moves.
+
+[t.wasif2710@gmail.com](mailto:t.wasif2710@gmail.com)
+
+</div>

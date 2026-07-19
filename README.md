@@ -14,7 +14,7 @@ Robotics · Multiplayer VR · Computer Vision · Full-Stack Systems
 
 ## About
 
-I'm an Honors Computer Science student at **The University of Texas at Arlington** with a **4.0 GPA**. I enjoy engineering software that has to work beyond the screen—where latency, privacy, hardware, teamwork, and real-world constraints shape the solution.
+I'm an Honors Computer Science student at **The University of Texas at Arlington** with a **4.0 GPA**. I enjoy engineering software that has to work beyond the screen, where latency, privacy, hardware, teamwork, and real-world constraints shape the solution.
 
 My current work spans multiplayer VR training, remote robot control, and real-time computer vision. I'm also a Presidential Scholar, a researcher, and a software team lead.
 
@@ -22,9 +22,9 @@ My current work spans multiplayer VR training, remote robot control, and real-ti
 
 ## What I'm working on
 
-- **Multiplayer VR de-escalation training** — building Unity and C# systems and evaluating a self-hosted Mirror architecture for a privacy-conscious, multi-officer training environment.
-- **Robot teleoperation and remote control** — developing a Python and ROS 2 control pipeline connecting an operator workstation, an OMRON mobile robot, and an onboard robotic arm.
-- **RoboMaster enemy detection** — training a YOLOv8n object-detection pipeline on competition footage for real-time robot and pressure-plate detection.
+- **Multiplayer VR de-escalation training**: building Unity and C# systems and evaluating a self-hosted Mirror architecture for a privacy-conscious, multi-officer training environment.
+- **Robot teleoperation and remote control**: developing a Python and ROS 2 control pipeline connecting an operator workstation, an OMRON mobile robot, and an onboard robotic arm.
+- **RoboMaster enemy detection**: training a YOLOv8n object-detection pipeline on competition footage for real-time robot and pressure-plate detection.
 
 ## Selected work
 
@@ -40,7 +40,7 @@ My current work spans multiplayer VR training, remote robot control, and real-ti
 ## Toolkit
 
 ```text
-Languages            Python · Java · C# · C · JavaScript · TypeScript · SQL
+Languages            Python · Java · C# · C · JavaScript · TypeScript · SQL · HTML · CSS
 Intelligent systems  ROS 2 · Unity · YOLOv8 · Gemini
 Web & backend        React · Next.js · Flask · Spring Boot · Node.js
 Infrastructure       AWS · Supabase · GitHub · NetBird

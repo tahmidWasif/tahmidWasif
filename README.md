@@ -49,7 +49,7 @@ Infrastructure       AWS · Supabase · GitHub · NetBird
 ## A little beyond the code
 
 - Presidential Scholar
-- World highest marks in Pure Mathematics and Chemistry
+- World highest marks in International A-Levels Pure Mathematics and Chemistry
 - Bangladesh Physics Olympiad national winner
 - Member of UTA's SCAI RoboMaster team
 
